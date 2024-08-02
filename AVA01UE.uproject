@@ -24,10 +24,6 @@
 			"Enabled": true
 		},
 		{
-			"Name": "MetaHuman",
-			"Enabled": true
-		},
-		{
 			"Name": "LiveLinkControlRig",
 			"Enabled": true
 		},
@@ -46,6 +42,10 @@
 		},
 		{
 			"Name": "ElectraPlayer",
+			"Enabled": true
+		},
+		{
+			"Name": "RigLogic",
 			"Enabled": true
 		}
 	]
