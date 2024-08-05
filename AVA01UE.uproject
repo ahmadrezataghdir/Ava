@@ -47,6 +47,10 @@
 		{
 			"Name": "RigLogic",
 			"Enabled": true
+		},
+		{
+			"Name": "RawInput",
+			"Enabled": true
 		}
 	]
 }
